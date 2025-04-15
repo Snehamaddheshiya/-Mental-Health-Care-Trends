@@ -1,0 +1,37 @@
+# Requirements
+
+## **Libraries and Functions**
+
+1. **Pandas:**
+   - `read_csv()`: Load datasets.
+   - `dropna()`: Handle missing values.
+   - `groupby()`: Aggregate data by specific categories.
+   - `merge()`: Combine datasets.
+
+2. **NumPy:**
+   - `array()`: Handle numerical operations.
+   - `mean()`: Compute averages.
+   - `std()`: Calculate standard deviation.
+
+3. **Matplotlib:**
+   - `plot()`: Create line plots.
+   - `bar()`: Generate bar charts.
+   - `show()`: Display visualizations.
+
+4. **Seaborn:**
+   - `heatmap()`: Generate heatmaps for visual analysis.
+   - `barplot()`: Create bar plots for categorical comparisons.
+   - `lineplot()`: Visualize trends over time.
+
+5. **Scikit-learn:**
+   - `train_test_split()`: Split data into training and testing sets.
+   - `LinearRegression()`: Perform regression analysis.
+   - `metrics.mean_squared_error`: Evaluate model accuracy.
+
+6. **Statsmodels:**
+   - `OLS()`: Conduct Ordinary Least Squares regression.
+   - `summary()`: Provide detailed statistical summaries.
+   - `conf_int()`: Compute confidence intervals.
+
+---
+
