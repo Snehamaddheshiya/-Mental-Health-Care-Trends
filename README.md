@@ -129,4 +129,4 @@ The following Python libraries were used for **data analysis and visualization:*
 ---
 
 ## **License**
-This project is licensed under the **MIT License**. See the `LICENSE` file for detailsbjihynu
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
